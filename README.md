@@ -1,1 +1,1 @@
-This is simple amazon clone website.
+This is a simple amazon clone website.
